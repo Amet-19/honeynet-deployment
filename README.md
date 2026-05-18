@@ -96,7 +96,7 @@ sudo ./install.sh
 
 ## 📸 Screenshots
 
-> *Screenshots à ajouter : dashboard Kibana, carte des attaques, logs Suricata*
+> *![Architecture HoneyNet](ImgHoneynet.png)
 
 ---
 
