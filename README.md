@@ -96,7 +96,7 @@ sudo ./install.sh
 
 ## 📸 Screenshots
 
-> *![Architecture HoneyNet](ImgHoneynet.png)
+![Architecture HoneyNet](ImgHoneynet.png)
 
 ---
 
